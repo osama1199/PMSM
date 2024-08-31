@@ -1,5 +1,5 @@
-##PMSM Mathematical Model with MATLAB Simulink
-#Overview
+                                                 ********************************PMSM Mathematical Model with MATLAB Simulink********************************
+#############Overview#############
 This repository contains a detailed mathematical model of a Permanent Magnet Synchronous Motor (PMSM), developed using MATLAB Simulink. The model is designed to simulate the dynamic behavior of PMSM under various operating conditions, providing insights into its performance characteristics.
 
 #############Features#############
